@@ -1,0 +1,4 @@
+flask==3.0.0
+zhipuai==2.1.2
+requests==2.31.0
+vercel==0.0.1
